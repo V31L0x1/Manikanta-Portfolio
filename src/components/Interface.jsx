@@ -127,7 +127,7 @@ const AboutSection = (props) => {
       <i class="fa fa-instagram"></i>
     </motion.button>
     <motion.button
-      onClick={() => window.open("https://instagram.com/v31l_0x1")}
+      onClick={() => window.open("https://www.linkedin.com/in/v31l-0x1/")}
       className="bg-indigo-600 text-white py-4 px-5 rounded-xl font-bold text-lg"
       initial={{
         opacity: 0,
