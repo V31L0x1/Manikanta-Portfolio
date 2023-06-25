@@ -74,7 +74,7 @@ const AboutSection = (props) => {
   <div className="flex mt-4">
     <motion.button
       onClick={() => window.open("https://drive.google.com/file/d/1HfXIYh8k4ohn2hBXNHvnMxCuTOQV8JXf/view?usp=sharing")}
-      className="bg-indigo-600 text-white py-4 px-8 rounded-xl font-bold text-lg mr-2"
+      className="bg-indigo-600 text-white py-1 md:py-4 px-8 rounded-xl font-bold text-lg mr-2"
       initial={{
         opacity: 0,
         y: 25,
@@ -92,7 +92,7 @@ const AboutSection = (props) => {
     </motion.button>
     <motion.button
       onClick={() => window.open("https://github.com/v31l0x1")}
-      className="bg-indigo-600 text-white py-2 px-5 rounded-xl font-bold text-lg mr-2"
+      className="bg-indigo-600 text-white py-4 px-5 rounded-xl font-bold text-lg mr-2"
       initial={{
         opacity: 0,
         y: 25,
