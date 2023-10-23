@@ -155,15 +155,15 @@ const skills = [
     level: 80,
   },
   {
-    title: "Network Security",
+    title: "Burp Suite",
     level: 90,
   },
   {
-    title: "Penetration Testing",
+    title: "Web App Security",
     level: 90,
   },
   {
-    title: "Web Application Security",
+    title: "Network Pentesting",
     level: 60,
   },
   {
@@ -171,7 +171,7 @@ const skills = [
     level: 40,
   },
 ];
-const languages = [
+const Programming_Languages = [
   {
     title: "Python",
     level: 100,
@@ -181,7 +181,7 @@ const languages = [
     level: 80,
   },
   {
-    title: "Java",
+    title: "Go",
     level: 20,
   },
 ];
