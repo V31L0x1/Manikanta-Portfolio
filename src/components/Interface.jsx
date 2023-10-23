@@ -164,11 +164,11 @@ const skills = [
   },
   {
     title: "Network Pentesting",
-    level: 60,
+    level: 70,
   },
   {
     title: "MITRE ATT&CK framework",
-    level: 40,
+    level: 70,
   },
 ];
 const Programming_Languages = [
